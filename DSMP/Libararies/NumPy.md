@@ -1,4 +1,4 @@
-# Lecture 5: NumPy — Fundamentals, Array Operations & Broadcasting
+# NumPy — Fundamentals, Array Operations & Broadcasting
 
 ---
 
